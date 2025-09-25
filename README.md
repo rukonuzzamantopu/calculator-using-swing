@@ -21,4 +21,4 @@ A simple GUI-based calculator application built using Java Swing. This project d
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/java-calculator.git
+   https://github.com/rukonuzzamantopu/calculator-using-swing
